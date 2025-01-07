@@ -4,6 +4,9 @@ The Minecraft landscape is evolving faster than ever, and if you're still relyin
 
 If you haven't yet switched to **Fabric**, it’s time to act. Here's why you need to make the move today:
 
+> [!IMPORTANT]
+> I want to clarify that I do not hate Spigot or Paper, and I do not encourage the spread of negativity or hate towards them. Both platforms have their merits and have been invaluable to the Minecraft community. My aim is simply to highlight the benefits of Fabric and explain why it might be the better choice for certain use cases. Every platform has its strengths, and the goal should always be to choose the tool that best fits your needs, not to disparage others. Let's continue to support and grow the community, regardless of the platform we choose.
+
 ## Reasons to Choose Fabric
 
 | **Feature**                             | **Fabric**                                            | **Spigot**                                            | **Paper**                                             |
